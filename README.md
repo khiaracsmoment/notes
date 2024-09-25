@@ -38,3 +38,14 @@
 * 🇵🇭
 * :trollface:
 * :godmode:
+
+## Keyboard shortcuts
+Shortcuts I often use:
+* Alt-Tab (Switch between open windows/programs)
+* Win key + Shift + S (Snipping tool)
+* Ctrl-Shift-T (Reopen closed browser window)
+
+Shortcuts I would like to use more: 
+* Ctrl + F5 (Refreshes a page and overrides cache data)
+* Win key + R (Opens Run menu)
+* Alt + Left arrow key (Go back)
