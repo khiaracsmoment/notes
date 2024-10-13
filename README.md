@@ -49,3 +49,5 @@ Shortcuts I would like to use more:
 * Ctrl + F5 (Refreshes a page and overrides cache data)
 * Win key + R (Opens Run menu)
 * Alt + Left arrow key (Go back)
+
+[Link to CLI commands](docs/cli.md)
