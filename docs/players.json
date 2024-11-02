@@ -24,10 +24,10 @@
   {
     "name": "Serena Williams", // string
     "sport": "Tennis", // string
-    "team": { 
+    "team": { // object
       "name": null, // null
       "city": null // null
-    }, // object
+    },
     "position": "Player", // string
     "age": 41 // number
   },
